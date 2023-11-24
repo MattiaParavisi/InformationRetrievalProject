@@ -9,7 +9,7 @@ This repository contains all the material related to the project I made for the 
 </ol>
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-[![Open In Colab](https://colab.research.google.com/drive/1aUveMFAoHTSZGCTNQs8vgn0rm-W2lC26?hl=it#scrollTo=ZIxX37jGUubD)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aUveMFAoHTSZGCTNQs8vgn0rm-W2lC26?hl=it#scrollTo=ZIxX37jGUubD)
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
