@@ -3,9 +3,9 @@
 This repository contains all the material related to the project I made for the course of "information retrieval":
 
 <ol>
-<li>Professore: <b>Ferrara Alfio</b>
+<li>Professor: <b>Ferrara Alfio</b>
 <li>Instructor: <b>Dott.ssa Darya Shlyk</b>
-<li>Project 2: <b>Market-basket analysis</b>
+<li>Project 5: <b>Language Models as Knowledge bases?</b>
 </ol>
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
